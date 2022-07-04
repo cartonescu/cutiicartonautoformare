@@ -3,7 +3,7 @@ title: "Cutii de carton ieftine - Cutii carton ambalare - Cutii cu autoformare!"
 subtitle: Cutii de carton ieftine - Cutii carton ambalare - Cutii cu autoformare!
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: De ce <a href="[https://www.foliebule.ro](https://www.cartonescu.ro)">https://www.cartonescu.ro</a>?
+    heading: De ce https://www.cartonescu.ro?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
