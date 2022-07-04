@@ -4,7 +4,8 @@ subtitle: Cutii de carton ieftine - Cutii carton ambalare - Cutii cu autoformare
 image: /img/home-jumbotron.jpg
 blurb:
     heading: De ce https://www.cartonescu.ro?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Cartonescu este un magazin online dedicat ambalejelor și produselor destinate pregătirii și împachetarii coletelor.
+Am lansat Cartonescu cu o echipă mică și mult curaj, într-un moment de creștere accelerată a nevoii de ambalaje. Ne-am ales un nume haios, care vrem să inspire familiaritate și prezență constantă, deoarece ne dorim să devenim acel furnizor care este mereu aproape de clientul său. Asocierea numelui indică miezul afacerii noastre – clasicul carton, simbol al ambalajului in orice forma. Cand spui Cutii de carton, exprimi forma tradițională de ambalare de pretutindeni. Deși numele nostru se vrea a fi unul comun, noi ne propunem să ieșim din anonimat. Și cum am putea să facem acest lucru într-o lume a transformării și evoluției, decât apelând la un lucru care va rămâne neatins: grija față de oameni. În calitate de furnizor de produse de ambalare, ne-am stabilit ca misiune să ne conectăm cu oamenii, clienții noștri și să le venim în întâmpinarea nevoilor."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
